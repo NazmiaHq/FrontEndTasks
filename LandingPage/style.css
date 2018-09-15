@@ -197,6 +197,7 @@ input[type=submit] {
 	color: #010101;
 	font-size: 20px;
 	font-weight: bold;
+	cursor: pointer;
 }
 .foot-section .container .icons{
 	margin-top: 75px;

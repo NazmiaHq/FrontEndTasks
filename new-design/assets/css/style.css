@@ -361,6 +361,7 @@ input[type=submit]{
 	text-align: center;
 	border-radius: 5px;
 	margin-bottom: 20px;
+	cursor: pointer;
 }
 .the-last {
 	background-color: #344b8e;
